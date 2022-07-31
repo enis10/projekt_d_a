@@ -7,6 +7,9 @@ This project was created with [Create React App](https://github.com/facebook/cre
 # Web Application Implementation
 The application is available on this [Link](https://projektda.netlify.app/posts).
 
+# Project Report
+The german version of the Project Report is available [hier](https://online.flippingbook.com/view/1022520840/)
+
 # Outcome of the project
 
 This Project consists of creation of a social network for film lovers, in which users can rate films and interact with each other.
